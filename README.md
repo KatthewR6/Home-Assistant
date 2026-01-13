@@ -12,7 +12,10 @@ Projekt ma na celu zbudowanie własnej sieci domowej używając ogólniedostępn
 - 🖼️ Stworzenie "scen", czyli zaplanowanych akcji wykonywanych przez urządzenia o kontretnej porze lub wspólne interakcje.
 - 💾 Automatyczny backup na zapasowym dysku
 
-## Specyfikacja
+<img width="1536" height="1024" alt="c88d4270-d21c-4139-b33d-ed48e10de0b8" src="https://github.com/user-attachments/assets/c69354dc-c5e6-43ae-9056-2cfcaba48a0f" />
+
+
+## Specyfikacja serwera
 
 - Płyta główna - [MSI H310M PRO VD](https://pl.msi.com/Motherboard/H310M-PRO-VD/Specification)
 - Procesor - [Intel Core I5-8600](https://www.intel.com/content/www/us/en/products/sku/129937/intel-core-i58600-processor-9m-cache-up-to-4-30-ghz/specifications.html) (Zintegrowana karta graficzna)
